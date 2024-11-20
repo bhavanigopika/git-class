@@ -1,0 +1,13 @@
+welcome
+hello all
+please listen all the concepts
+otherwise you miss it
+jjk
+
+command to add files to the staging area
+
+If you want to add a specific file
+git add <file-name>
+
+If you want to add everything in the folder my_project
+git add.
