@@ -11,3 +11,15 @@ git add <file-name>
 
 If you want to add everything in the folder my_project
 git add.
+
+
+===========
+git add
+git commit
+git init
+git log
+git status
+git --version
+
+
+Funfact: Every commit have unique id (i.e) hash
